@@ -1,0 +1,133 @@
+wall                 199
+chair                62
+cabinet              188
+bed                  65
+building             197
+tree                 184
+fire hydrant         11
+person               1
+pavement             191
+sky                  187
+skateboard           41
+potted plant         64
+stairs               161
+dirt                 194
+road                 149
+grass                193
+clock                85
+window               181
+curtain              109
+dining table         67
+ceiling              186
+playingfield         145
+bottle               44
+baseball glove       40
+net                  138
+wall-brick           171
+truck                8
+river                148
+bridge               95
+mountain             192
+bird                 16
+rock                 198
+sea                  155
+shelf                156
+water                178
+light                130
+gravel               125
+fence                185
+horse                19
+book                 84
+laptop               73
+tv                   72
+table                189
+door-stuff           112
+banner               92
+vase                 86
+snow                 159
+bicycle              2
+wall-stone           175
+roof                 151
+counter              107
+floor                190
+bowl                 51
+sink                 81
+wine glass           46
+sheep                20
+bench                15
+train                7
+railroad             147
+car                  3
+boat                 9
+handbag              31
+remote               75
+broccoli             56
+food                 196
+backpack             27
+paper                195
+traffic light        10
+cell phone           77
+cup                  47
+cow                  21
+sandwich             54
+house                128
+wall-tile            176
+knife                49
+skis                 35
+teddy bear           88
+cake                 61
+mirror-stuff         133
+airplane             5
+window-blind         180
+couch                63
+wall-wood            177
+floor-wood           118
+donut                60
+cat                  17
+suitcase             33
+rug                  200
+cardboard            100
+towel                168
+toilet               70
+bus                  6
+sand                 154
+tie                  32
+oven                 79
+spoon                50
+flower               119
+elephant             22
+sports ball          37
+umbrella             28
+platform             144
+surfboard            42
+stop sign            13
+refrigerator         82
+tent                 166
+hot dog              58
+fork                 48
+orange               55
+parking meter        14
+baseball bat         39
+banana               52
+apple                53
+fruit                122
+pizza                59
+frisbee              34
+keyboard             76
+motorcycle           4
+microwave            78
+carrot               57
+snowboard            36
+kite                 38
+dog                  18
+tennis racket        43
+zebra                24
+pillow               141
+mouse                74
+giraffe              25
+bear                 23
+hair drier           89
+toothbrush           90
+scissors             87
+toaster              80
+blanket              93
